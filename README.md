@@ -4,7 +4,7 @@
 🚀 Currently exploring advanced backend development with Java and Spring Boot while strengthening my frontend side with React.  
 🌐 Open to collaborations and innovative projects — especially those that challenge me to grow technically.  
 📘 Always learning: from software architecture to containerization with Docker and microservices.  
-⚙️ Motto: “Code smart, keep it clean, and make it meaningful.”
+
 
 ---
 
@@ -55,5 +55,4 @@
 
 ------
 
-🧩 **Last Edited:** 06/11/2025  
 👤 **Created by:** [Jeffred Rodriguez](https://github.com/JeffredRodriguez)

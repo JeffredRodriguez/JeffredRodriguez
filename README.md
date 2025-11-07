@@ -46,11 +46,6 @@
 
 ---
 
-### ✍️ Dev Quote
-> "Simplicity is the soul of efficiency." — Austin Freeman
-
----
-
 [![](https://visitcount.itsvg.in/api?id=JeffredRodriguez&icon=2&color=6)](https://visitcount.itsvg.in)
 
 ------

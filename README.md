@@ -1,5 +1,5 @@
 # 💫 About Me:
-👨‍💻 Engineer in Systems | Backend & Full Stack Developer  
+👨‍💻 Engineer in Systems | Full Stack Developer  
 💡 Passionate about building scalable, efficient, and modern solutions that blend logic with creativity.  
 🚀 Currently exploring advanced backend development with Java and Spring Boot while strengthening my frontend side with React.  
 🌐 Open to collaborations and innovative projects — especially those that challenge me to grow technically.  

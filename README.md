@@ -11,6 +11,7 @@
 ### 🧠 Languages & Frameworks
 ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring](https://img.shields.io/badge/Spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Node.js](https://img.shields.io/badge/Node.js-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white)
 ![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
@@ -46,4 +47,12 @@
 
 ------
 
-👤 **Created by:** [Jeffred Rodriguez](https://github.com/JeffredRodriguez)
+<div align="center">
+  <a href="https://jeffredrodriguez.netlify.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portafolio-Ver%20Proyectos-%230077B6?style=for-the-badge&logo=netlify&logoColor=white" alt="Portafolio Badge"/>
+  </a>
+</div>
+
+<div align="center">
+ [Jeffred Rodriguez]
+</div>

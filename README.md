@@ -39,10 +39,8 @@
 ---
 
 ## 🏆 GitHub Trophies
-![Contador de Visitas](https://komarev.com/ghpvc/?username=JeffredRodriguez&color=blueviolet&style=flat)
----
+![Trofeos de GitHub](https://github-trophies.vercel.app/?username=JeffredRodriguez&theme=onedark&margin-w=15&no-frame=true)
 
-[![](https://visitcount.itsvg.in/api?id=JeffredRodriguez&icon=2&color=6)](https://visitcount.itsvg.in)
 
 ------
 

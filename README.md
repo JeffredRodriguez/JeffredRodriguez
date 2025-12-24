@@ -39,7 +39,7 @@
 ---
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=JeffredRodriguez&theme=onedark&no-frame=true&margin-w=4)
+![Logros de GitHub](https://github-readme-achievements.vercel.app/api?username=JeffredRodriguez&theme=onedark&margin-w=15&no-frame=true)
 
 ---
 

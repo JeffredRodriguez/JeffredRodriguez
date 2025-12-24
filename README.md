@@ -39,8 +39,7 @@
 ---
 
 ## 🏆 GitHub Trophies
-![Logros de GitHub](https://github-readme-achievements.vercel.app/api?username=JeffredRodriguez&theme=onedark&margin-w=15&no-frame=true)
-
+![Contador de Visitas](https://komarev.com/ghpvc/?username=JeffredRodriguez&color=blueviolet&style=flat)
 ---
 
 [![](https://visitcount.itsvg.in/api?id=JeffredRodriguez&icon=2&color=6)](https://visitcount.itsvg.in)

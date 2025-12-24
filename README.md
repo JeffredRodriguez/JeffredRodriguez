@@ -35,6 +35,7 @@
 ![](https://github-readme-stats.vercel.app/api?username=JeffredRodriguez&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=JeffredRodriguez&theme=tokyonight&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=JeffredRodriguez&theme=tokyonight&hide_border=false&layout=compact)
+<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=AVS1508&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
 
 ---
 
